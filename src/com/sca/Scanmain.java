@@ -10,7 +10,7 @@ public class Scanmain {
 		System.out.println("Enter User Name ");
 		String customername=sc.nextLine();
 		
-		System.out.println("Enter User Address ");
+		System.out.println("Enter User Address "); 
 		String customeraadress=sc.nextLine();
 		
 		System.out.println("Enter Phone Number ");
